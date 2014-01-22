@@ -1,1 +1,1 @@
-javascript code repository
+<code>javascript</code> code repository
